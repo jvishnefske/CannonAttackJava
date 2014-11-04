@@ -5,7 +5,8 @@ This is an example test driven development project inspired by [Dom Miller's blo
 
 The Goal is to hit a cannonball within fifty yards of a target distance by guessing an angle, and muzzle velocity of a cannonball.
 
-==Requirements==
+Requirements
+---
 
 - Demonstrate the Software Development Lifecycle, and Test Driven Development methodology.
 - Produce a random goal distance, and display it to the user.
