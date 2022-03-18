@@ -22,6 +22,9 @@ dependencies {
 
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:30.1-jre'
+
+    // org.gradle.wrapper.GradleWrapperMain
+    implementation 'org.gradle:gradle-wrapper:4.10.3'
 }
 
 application {
